@@ -1,1 +1,1 @@
-this tool to find out disk usage particularly in desktop folder.fghfgh
+this tool to find out disk usage particularly in desktop folder.
